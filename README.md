@@ -19,7 +19,13 @@
 
 
 
+
+
 -동작
+
+
+
+
 ![playapp](https://github.com/ensookim/WeatherApp_clone/assets/110519907/1fa04c89-64ca-4572-bf2f-1420ca29e722)
 
 
