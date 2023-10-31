@@ -10,3 +10,18 @@
 
 
 
+
+-API의 내용을 파악하고 원하는 필드를 가저오는 코드
+
+![image](https://github.com/ensookim/WeatherApp_clone/assets/110519907/aac5d9d8-cfc3-4205-8ed3-43356210bfd2)
+
+
+
+
+
+-동작
+
+![playapp](https://github.com/ensookim/NBAwebsite/assets/110519907/14693e0e-3c73-48d4-9967-f2305bf06850)
+
+
+
